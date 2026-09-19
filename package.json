@@ -1,0 +1,13 @@
+{
+  "name": "nsl-discord-bot",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^16.4.7"
+  }
+}
